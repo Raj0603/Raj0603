@@ -20,7 +20,7 @@ If you're looking for someone who can write code and make you laugh at the same 
 * Status: Available for hire
 * Occupation: Student/Unoccupied
 
-## Education:
+## Education: 🎓
 
 * Mumbai University (M.U.)
   - VidyaVardhini's College of Engineering and Technology
@@ -44,6 +44,13 @@ If you're looking for someone who can write code and make you laugh at the same 
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) (Can't make life dynamic, atleast make a website)
 
 ## 👾 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/rajsrivastavb4a8221b1/)
-- [Email](rajsrivastav0603@gmail.com)
-- [Instagram](https://instagram.com/_raj.xd)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajsrivastavb4a8221b1/)
+- [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rajsrivastav0603@gmail.com)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_raj.xd)
+
+## 📈 Github Stats
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj0603&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj0603&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
