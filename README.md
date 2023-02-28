@@ -45,7 +45,7 @@ If you're looking for someone who can write code and make you laugh at the same 
 
 ## 👾 How to reach me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajsrivastavb4a8221b1/)
-- [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rajsrivastav0603@gmail.com)
+- [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](<a href="mailto:addacoding01@gmail.com" target="_blank">)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_raj.xd)
 
 ## 📈 Github Stats
