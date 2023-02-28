@@ -35,7 +35,7 @@ If you're looking for someone who can write code and make you laugh at the same 
   - (IDK - 2018)
   
 ## Some basic info:
-👽 I have at least 5 min experience in any of these Languages:
+### 👽 I have at least 5 min experience in any of these Languages:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) (Barely survived this)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (Creating too much hype for me)
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Surviving this for DSA)
