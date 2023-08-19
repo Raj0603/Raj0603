@@ -48,9 +48,16 @@ If you're looking for someone who can write code and make you laugh at the same 
 - [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfprwfNgXDLgSXGbCnhJchbKnCDhTKbZDTMjwpFNnXQmLRLTJGMVBGjdNccJShlsTmrsqB)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_raj.xd)
 
-## 📈 Github Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kmalap05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kmalap05&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap05&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj0603&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj0603&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kmalap05&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kmalap05&limit=5&theme=dark&combine_all_yearly_contributions=true)
